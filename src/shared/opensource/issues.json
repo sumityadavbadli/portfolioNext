@@ -1,0 +1,27 @@
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU4NzQ2NjI3ODk=",
+      "closed": true,
+      "title": "Unable to verify a Firebase ID Token",
+      "createdAt": "2021-05-03T15:14:15Z",
+      "url": "https://github.com/kreait/laravel-firebase/issues/89",
+      "number": 89,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "laravel-firebase",
+        "url": "https://github.com/kreait/laravel-firebase",
+        "owner": {
+          "login": "kreait",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/574843?v=4",
+          "url": "https://github.com/kreait"
+        }
+      }
+    }
+  ],
+  "open": 0,
+  "totalCount": 1
+}
